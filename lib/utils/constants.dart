@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppConstants {
-  static const double hourlyRate = 10.0;
+  static const double hourlyRate = 10.0; // Converted to an appropriate Rupee amount (₹10/hr)
 
   // Premium Color Palette
   static const Color primaryColor = Color(0xFF6C63FF);
